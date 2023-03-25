@@ -1,0 +1,4 @@
+export const SUBMIT_STUDENT = "SUBMIT_STUDENT";
+export const DELETE_STUDENT = "DELETE_STUDENT";
+export const EDIT_STUDENT = "EDIT_STUDENT";
+export const SEARCH_STUDENT = "SEARCH_STUDENT";
