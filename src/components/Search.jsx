@@ -9,7 +9,7 @@ class Search extends Component {
    render() {
       return (
          <div>
-            <label>Tìm kiếm</label>
+            <label>Tìm kiếm (họ tên)</label>
             <input
                type="text"
                className="form-control mb-3 w-50"
